@@ -3,6 +3,7 @@
 
 ## Tryin to code!
 Still learning...
+In the words of a great wise one: "The robot won't move if you don't tell it to do so"-Bea
 
 ``` text
  _       ___             __      ______           __  __   
